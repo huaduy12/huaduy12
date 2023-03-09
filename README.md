@@ -71,16 +71,16 @@
   <a href="https://facebook.com/duyhua01" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="huaduy12-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
+  <a href="https://youtube.com/@hduy8536" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="huaduy12-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
+  <a href="https://www.linkedin.com/in/hua-duy-712440269" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="huaduy12-linkedin" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
+  <a href="https://www.instagram.com/huaduy01" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="huaduy12-instagram" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
+  <a href="mailto:huaduy2k2@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="huaduy12-email" />
   </a>
 </div>
